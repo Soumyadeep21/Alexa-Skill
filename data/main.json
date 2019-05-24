@@ -1,0 +1,52 @@
+{
+    "bodyTemplate6Data": {
+        "type": "object",
+        "objectId": "bt6Sample",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/login-demo-b6554.appspot.com/o/Webp.net-resizeimage.jpg?alt=media&token=7dc583bc-5a92-444d-afdb-5251d81863cd",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://cdn.soccerladuma.co.za/cms2/image_manager/uploads/News/283728/7/1510651968_66a2a.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://firebasestorage.googleapis.com/v0/b/login-demo-b6554.appspot.com/o/Webp.net-resizeimage.jpg?alt=media&token=7dc583bc-5a92-444d-afdb-5251d81863cd",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://cdn.soccerladuma.co.za/cms2/image_manager/uploads/News/283728/7/1510651968_66a2a.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "textContent": {
+            "primaryText": {
+                "type": "PlainText",
+                "text": "Lets Listen to Some Football Facts"
+            }
+        },
+        "logoUrl": "https://statics.sportskeeda.com/wp-content/uploads/2015/09/488588768-1443099596-800.jpg",
+        "hintText": "Try, \"Alexa, load football facts\""
+    }
+}
